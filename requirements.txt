@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+sqlalchemy[asyncio]
+asyncpg
+elasticsearch[async]==8.11.1
+pydantic
+pandas
+python-multipart
